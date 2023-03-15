@@ -525,8 +525,8 @@ body.light .switch-wrap p span:nth-child(1):before {
 
 .link-to-portfolio {
 	  position: fixed;
-    bottom: 40px;
-    right: 50px;
+    bottom: 80px;
+    right: 40px;
     z-index: 200;
     cursor: pointer;
     width: 50px;
@@ -555,12 +555,12 @@ body.light .switch-wrap p span:nth-child(1):before {
 }
 #btn{
 	width: 110%;
-	height: 40px;
+	height: 80px;
 	border: none;
 	border-radius: 20px;
+	outline: none;
 
 
-	
 	
 	background-color: rgb(75, 223, 171);
 }
